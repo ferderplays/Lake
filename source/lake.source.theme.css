@@ -1,4 +1,12 @@
 /**
+ * App
+ */
+
+.appMount-2yBXZl {
+    background: var(--wbg);
+}
+
+/**
  * Textarea
  */
 .scrollableContainer-15eg7h,
@@ -94,10 +102,6 @@
 .channelTabs-tabNav {
     background: var(--theme-bg);
     border-radius: var(--theme-roundness);
-}
- 
-#app-mount {
-    background: var(--theme-bg);
 }
  
 .channelTabs-tab:not(.channelTabs-selected),
