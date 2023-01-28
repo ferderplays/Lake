@@ -5,6 +5,7 @@
 
  * {
     font-family: var(--font);
+    color: var(--fg);
 }
 
 
@@ -291,7 +292,11 @@
     .channelTextArea-1FufC0,
     .attachedBars-2BCP3l {
     background: var(--bg4);
-}  
+} 
+
+[data-slate-string] {
+    color: var(--fg2);
+}
 
 /**
  *Channel Tabs 
