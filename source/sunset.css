@@ -84,6 +84,10 @@
     background: var(--bg4);
 }
 
+.sidebar-1tnWFu {
+    background: var(--bg2);
+}
+
 .quickswitcher-pKcM9U {
     background: var(--bg4);
     border-radius: var(--theme-roundness);
@@ -333,6 +337,10 @@
 
 .buttonText-1c-l_x {
     color: var(--fg2);
+}
+
+.children-3xh0VB:after {
+    display: none;
 }
 
 /**
