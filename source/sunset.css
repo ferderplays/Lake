@@ -338,7 +338,7 @@
 }
 
 .sidebar-1tnWFu {
-    width: 75px;
+    width: var(--sidebar-width);
     transition: all var(--anim-cooldown) linear;
 }
 
